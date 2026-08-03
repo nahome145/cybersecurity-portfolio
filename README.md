@@ -28,10 +28,12 @@ This repository showcases my hands-on home labs, security projects, and technica
 
 # 📂 Projects
 
-## ✅ Wazuh SIEM Home Lab
-Building a Security Information and Event Management (SIEM) environment using Ubuntu Server, Kali Linux, and Wazuh.
+## ✅ [Wazuh SIEM Home Lab](https://github.com/nahome145/wazuh-siem-home-lab)
 
-Status: Coming Soon
+Deployed a Wazuh SIEM environment using Ubuntu Server and Kali Linux to monitor endpoint activity, investigate alerts, review vulnerabilities, and analyze events using MITRE ATT&CK.
+
+**Skills:** Wazuh, SIEM, Linux, log analysis, File Integrity Monitoring, Nmap, MITRE ATT&CK
+[View the complete project →](https://github.com/nahome145/wazuh-siem-home-lab)
 
 ---
 
