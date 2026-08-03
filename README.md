@@ -48,7 +48,13 @@ Generated an authorized TCP SYN scan from Kali Linux against Ubuntu, captured th
 
 ## ✅ SMB File Share Lab
 
-Configured SMB file sharing between Ubuntu and Kali Linux.
+## ✅ [Samba File Server Lab](https://github.com/nahome145/samba-file-server-lab)
+
+Built a Linux file server on Ubuntu using Samba, created the `/srv/shared` network directory, configured VirtualBox networking, and validated SMB access from a Kali Linux client.
+
+**Skills:** Linux administration, Samba, SMB, file permissions, VirtualBox networking, connectivity troubleshooting
+
+[View the complete project →](https://github.com/nahome145/samba-file-server-lab)
 
 ---
 
