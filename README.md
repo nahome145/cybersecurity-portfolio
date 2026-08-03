@@ -37,16 +37,12 @@ Deployed a Wazuh SIEM environment using Ubuntu Server and Kali Linux to monitor 
 
 ---
 
-## ✅ Active Directory Home Lab
+## ✅ [TCP SYN Scan Detection Lab](https://github.com/nahome145/tcp-syn-scan-detection-lab)
 
-Windows Server Active Directory environment including:
+Generated an authorized TCP SYN scan from Kali Linux against Ubuntu, captured the traffic with Wireshark, and identified reconnaissance behavior by analyzing TCP flags and incomplete connection attempts.
 
-- Users
-- Groups
-- Organizational Units
-- File Shares
-
-Status: Coming Soon
+**Skills:** Wireshark, Nmap, TCP/IP, Kali Linux, Ubuntu, packet analysis, MITRE ATT&CK
+[View the complete project →](https://github.com/nahome145/tcp-syn-scan-detection-lab)
 
 ---
 
