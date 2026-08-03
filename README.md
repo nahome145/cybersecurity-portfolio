@@ -14,6 +14,16 @@ This repository showcases my hands-on home labs, security projects, and technica
 - 🔐 CompTIA Security+
 - 💻 Interested in SOC Analyst, IT Support, and Cybersecurity Analyst roles
 
+
+🛠️ Technologies
+
+• Operating Systems: Windows Server, Ubuntu, Kali Linux
+• SIEM: Wazuh
+• Networking: Wireshark, TCP/IP, DNS, DHCP
+• Security: Nmap, Nessus Essentials, Burp Suite, Metasploit
+• Virtualization: VirtualBox, VMware
+• Frameworks: MITRE ATT&CK, NIST RMF
+
 ---
 
 # 📂 Projects
@@ -42,15 +52,11 @@ Status: Coming Soon
 
 Configured SMB file sharing between Ubuntu and Kali Linux.
 
-Status: Coming Soon
-
 ---
 
 ## ✅ Home Network Threat Hunt
 
 Captured and analyzed network traffic using Wireshark.
-
-Status: Coming Soon
 
 ---
 
