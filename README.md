@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity & IT Portfolio
+# 🛡️ Nahome Tewodros | Cybersecurity & IT Portfolio
 
 Welcome to my cybersecurity and IT portfolio!
 
