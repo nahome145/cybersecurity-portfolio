@@ -56,9 +56,13 @@ Built a Linux file server on Ubuntu using Samba, created the `/srv/shared` netwo
 
 ---
 
-## ✅ Home Network Threat Hunt
+## ✅ [Failed SSH Login Detection Lab](https://github.com/nahome145/ssh-login-detection-lab)
 
-Captured and analyzed network traffic using Wireshark.
+Simulated failed SSH authentication attempts from Kali Linux against an Ubuntu server, then investigated authentication logs to identify invalid usernames, source IP addresses, timestamps, and repeated login failures.
+
+**Skills:** Linux log analysis, SSH, incident investigation, command-line filtering, brute-force detection, MITRE ATT&CK
+
+[View the complete project →](https://github.com/nahome145/ssh-login-detection-lab)
 
 ---
 
