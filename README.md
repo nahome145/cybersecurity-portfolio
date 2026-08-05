@@ -66,9 +66,17 @@ Simulated failed SSH authentication attempts from Kali Linux against an Ubuntu s
 
 ---
 
+## ✅ [AI-Assisted Alert Triage Lab](https://github.com/nahome145/ai-assisted-alert-triage-lab)
+Built an AI-assisted SOC alert triage lab using Wazuh, Ubuntu, and Kali Linux. Generated and investigated Nmap reconnaissance, repeated SSH authentication failures, and file integrity changes. Analyzed raw JSON alerts, mapped activity to MITRE ATT&CK, used AI to develop initial assessments, and manually validated each conclusion against the original evidence.
+
+**Skills:** Wazuh, SIEM, alert triage, Linux log analysis, Nmap, SSH, File Integrity Monitoring, MITRE ATT&CK, JSON analysis, incident documentation
+
+[View the complete project →](https://github.com/nahome145/ai-assisted-alert-triage-lab)
+
+---
+
 ## 🚧 Upcoming Projects
 
-- AI-Assisted Alert Triage
 - Detection Engineering (Sigma Rules)
 - Phishing Investigation
 - Incident Response Labs
