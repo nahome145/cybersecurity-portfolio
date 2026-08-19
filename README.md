@@ -75,6 +75,16 @@ Built an AI-assisted SOC alert triage lab using Wazuh, Ubuntu, and Kali Linux. G
 
 ---
 
+## ✅ [Secure Enterprise Network Lab](https://github.com/nahome145/secure-enterprise-network-lab)
+
+Designed and configured a secure multi-site enterprise network in Cisco Packet Tracer connecting a headquarters location and branch office. Implemented static routing, DHCP, DNS, HTTP/HTTPS services, and an extended ACL that permitted approved web traffic while blocking unauthorized access from an external test network.
+
+**Skills:** Cisco Packet Tracer, network design, IPv4 addressing, static routing, DHCP, DNS, HTTP/HTTPS, extended ACLs, connectivity testing, network security
+
+[View the complete project →](https://github.com/nahome145/secure-enterprise-network-lab)
+
+---
+
 ## 🚧 Upcoming Projects
 
 - Detection Engineering (Sigma Rules)
