@@ -85,6 +85,11 @@ Designed and configured a secure multi-site enterprise network in Cisco Packet T
 
 ---
 
+### Small Business Network with Guest Isolation
+Built a Cisco Packet Tracer network with IT, HR, and Guest VLANs, DHCP, inter-VLAN routing, and an intranet server. Verified guest isolation using ACLs and restricted router SSH access to the IT subnet.
+
+[View project, screenshots, and Packet Tracer file](https://github.com/nahome145/packet-tracer-small-business-network)
+
 ## 🚧 Upcoming Projects
 
 - Detection Engineering (Sigma Rules)
